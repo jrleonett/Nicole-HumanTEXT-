@@ -1,4 +1,10 @@
 # Nicole HumanTEXT - Versión 2.0
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
+![Static Badge](https://img.shields.io/badge/HTML-5%2B-orange)
+![Static Badge](https://img.shields.io/badge/Java-8%2B-red)
+![Static Badge](https://img.shields.io/badge/CSS-3%2B-blue)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
+
 Haciendo mas humana la escritura generada con IA. Es la herramienta profesional para detectar y limpiar textos de IA manteniendo total portabilidad.
 
 ![image](https://github.com/jrleonett/Nicole-HumanTEXT-/blob/main/Nicole.jpg)
