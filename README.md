@@ -154,3 +154,35 @@ La herramienta Nicole HumanTEXT ahora es una *suite completa de análisis de IA*
 - *Funciona 100% offline* sin dependencias externas
 
 - *Es la herramienta profesional para detectar y limpiar textos de IA manteniendo total portabilidad.*
+
+- ---
+
+## **Facilidad de uso:**
+Está diseñado detectar marcas de agua y otros detalles den textos que han sido generados por AI y  ala vez, corregirlos y hacerlo mas humano.
+
+## **Ejemplo de Uso.
+Descargue el HTML y ejecutelo.
+
+**Ejecuta el programa.***
+Verás:
+- La imagen original.
+- La imagen mejorada con GFPGAN (escalada al doble y restaurada).
+- La imagen mejorada se guardará como foto_mejoradoIA.jpg en la carpeta EVIDENCIAS.
+- Se descargará un archivo ZIP con todas las imágenes mejoradas.
+
+---
+# Cómo citar este trabajo.
+Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
+```bash
+@article{joséRLeonett,
+  title={Nicole HumanText v.2.0 elimina metadatos y marcas de IA en textos},
+  author={José R. Leonett},
+  year={2025}
+}
+```
+---
+
+**Licencia.**
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
+
+
