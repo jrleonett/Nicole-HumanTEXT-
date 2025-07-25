@@ -7,7 +7,7 @@
 
 Haciendo mas humana la escritura generada con IA. Es la herramienta profesional para detectar y limpiar textos de IA manteniendo total portabilidad.
 
-![image](https://github.com/jrleonett/Nicole-HumanTEXT-/blob/main/Nicole.jpg)
+![image](https://github.com/jrleonett/Nicole-HumanTEXT-/blob/main/Nicole_dash.jpg)
 ..:: EN MEMORIA DE NICOLE ::..
 20 de Agosto del 2002 - 16 de Agosto del 2024
 
@@ -122,7 +122,7 @@ Haciendo mas humana la escritura generada con IA. Es la herramienta profesional 
 - Recomendaciones personalizadas.
 - Indicadores de calidad textual.
 
-  ![image](https://github.com/jrleonett/Nicole-HumanTEXT-/blob/main/nicole2.jpg)
+  ![image](https://github.com/jrleonett/Nicole-HumanTEXT-/blob/main/nicole02.jpg)
 
 ### *MEJORAS TÉCNICAS*
 
