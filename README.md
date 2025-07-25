@@ -1,4 +1,4 @@
-# Nicole HumanTEXT - Versión 2.0
+# Nicole HumanTEXT - Versión 2.7
 ![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![Static Badge](https://img.shields.io/badge/HTML-5%2B-orange)
 ![Static Badge](https://img.shields.io/badge/Java-8%2B-red)
@@ -172,7 +172,7 @@ La herramienta Nicole HumanTEXT ahora es una *suite completa de análisis de IA*
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
 @article{joséRLeonett,
-  title={Nicole HumanText v.2.0 elimina metadatos y marcas de IA en textos},
+  title={Nicole HumanText v.2.7 elimina metadatos y marcas de IA en textos},
   author={José R. Leonett},
   year={2025}
 }
